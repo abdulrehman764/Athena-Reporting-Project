@@ -7,12 +7,12 @@ from reportlab.pdfgen import canvas
 # from fpdf import FPDF
 
 # AWS credentials
-aws_access_key_id = 'ASIAYMSB3P7B4CBBIQXM'
-aws_secret_access_key = 'VpUD+DpQNqYxrNaftJ1j6gT/7/rHscjKVWthAS8t'
-aws_session_token = 'IQoJb3JpZ2luX2VjEGsaCXVzLWVhc3QtMSJHMEUCIFrTR1Qqz16vO3+qstRLuir1AUZ58tHA8aIT90h6P9q7AiEAlfoD+VqFCvuKZeXv1E2ZQFM8FFWLQIB6TwFHAF6O6yAqgwMIQxAAGgw1NzY3Mzc0NzY1NDciDIQkznLhotTNYFArqCrgAjXGdFMrUJmilXwZosd4fGUHdU3YrOiImL0BPlWEW1l5ppJ2acgL/nM5K1ZV0od8yo6fDiP254GoY5OUnkFCElnU5Fm4q4DUCj7dX25KLD2vi7wmq6CMWEfn+Imir9XL+tA6Ly2STcHorYiaMFQd5BB0mijiv13uO0uKz9o9Qz0wxlLp5y/P99U5VOvw2DyRwZpNhi2LE76/im1Cmzycir46HlTQL6+48GK+H+sE/yb7Q5I/F8ovtqakV+BpYFnq6wrqDHx/Km6rNe+mjGeV3yFqkp/wmsfiyMx0hrO6SVzrWPQpCNQRO9BhCzfTdjCNC8t/vQkH5AOnvAfpkGNn224g1QCOS+Z9IFl+RgakqYgzfxzwj/Pe+CuM1zWvSRmdJnY5xEqoX4LosBe2tQ765ci5hb9mPmQGv9oKugTCSwGYl+YWwUGjSYlEPis3VzCZ5o2PUmXmeChGMfkbrgoxsGUwgNnWpwY6pgEJRNIfVH1NRMfEdHC1y4NGlgU20Q5Zk1zTJfmbrewZ9YnkQNygU2XZsEqe/zWVo6yRMNB5CxLyQK/4mdFSAoMgWrYQXVWBlID+QLapXJsqGi3HgPRaAqFRPZQpbTvWQ7ByYndQqZwuTnsDrzBmdgMP/+iqg2gcObKeYnsvc/BMJXMNb+wBA/8mV3zhrbLEVm8euj0/KivsBQO8rncDFK9j1EfY3HtT'
+aws_access_key_id = ''
+aws_secret_access_key = ''
+aws_session_token = ''
 s3_bucket = 'athena-report-123'
-athena_database = 'abdul-csv-parquet-db'
-athena_table = 'gamechangeoutput'
+athena_database = ''
+athena_table = ''
 
 
 
